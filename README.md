@@ -2,7 +2,7 @@
 
 #### This project is a successor to [this](https://github.com/sid0312/ANPR)
 
-#### Refer to our data preparation at [this link](https://github.com/sid0312/ANPR/notebooks/data_preparation.ipynb)
+#### Refer to our data preparation at [this link](https://github.com/sid0312/ANPR/blob/master/notebooks/data_preparation.ipynb)
 
 ### Training 
 
