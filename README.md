@@ -1,6 +1,8 @@
 # Automatic license plate recognition using YoloV5 and PyTesseract
 
-#### Refer to our data preparation at [this link](https://github.com/sid0312/ANPR)
+#### This project is a successor to [this](https://github.com/sid0312/ANPR)
+
+#### Refer to our data preparation at [this link](https://github.com/sid0312/ANPR/notebooks/data_preparation.ipynb)
 
 ### Training 
 
@@ -10,6 +12,10 @@
 
 <p align="center">  
   <img src="https://github.com/sid0312/anpr_yolov5/blob/master/visualizations/results.png">
+</p>
+
+<p align="center">  
+  <img src="https://github.com/sid0312/anpr_yolov5/blob/master/visualizations/labels.png">
 </p>
 
 ## Validation Results
