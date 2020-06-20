@@ -18,6 +18,7 @@
   <img src="https://github.com/sid0312/anpr_yolov5/blob/master/visualizations/labels.png">
 </p>
 
+
 ## Validation Results
 
 <p align="center">  
@@ -25,3 +26,8 @@
 </p>
 
 ## Detection
+```
+git clone https://github.com/sid0312/anpr_yolov5
+cd anpr_yolov5
+python detect.py --source sample_cars/  --weights weights/best.pt --conf 0.4
+```
