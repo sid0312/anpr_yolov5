@@ -23,3 +23,5 @@
 <p align="center">  
   <img src="https://github.com/sid0312/anpr_yolov5/blob/master/results/test_batch0_gt.jpg">
 </p>
+
+## Detection
