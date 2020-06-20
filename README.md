@@ -1,1 +1,1 @@
-# anpr_yolov5
+# Automatic license plate recognition using YoloV5 and PyTesseract
