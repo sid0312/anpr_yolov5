@@ -31,3 +31,4 @@ git clone https://github.com/sid0312/anpr_yolov5
 cd anpr_yolov5
 python detect.py --source sample_cars/  --weights weights/best.pt --conf 0.4
 ```
+ ###### For detection, refer to [this link](anpr_test.ipynb)
