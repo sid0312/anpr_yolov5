@@ -1,5 +1,5 @@
 # Automatic license plate recognition using YoloV5 and PyTesseract
-
+#### To get more hands on, check [this article](https://towardsdatascience.com/indian-car-license-plate-detection-using-yolo-v5-ae2574578175)
 #### This project is a successor to [this](https://github.com/sid0312/ANPR)
 
 #### Refer to our data preparation at [this link](https://github.com/sid0312/ANPR/blob/master/notebooks/data_preparation.ipynb)
