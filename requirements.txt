@@ -1,6 +1,6 @@
 # pip install -U -r requirements.txt
 numpy==1.22.0
-scipy==1.4.1
+scipy==1.10.0
 opencv-python
 # torch==1.5.1
 # torchvision==0.6.1
